@@ -1,0 +1,20 @@
+<!ELEMENT Class_Schedule (Course+)>
+<!ELEMENT Course ( 		CourseName
+					   ,CourseNum
+					   ,CRN
+					   ,Credit
+					   ,Section
+					   ,Starttime
+					   ,Endtime
+					   ,Room
+					   ,Professor)
+>
+<!ELEMENT CourseName (#PCDATA)>
+<!ELEMENT CourseNum (#PCDATA)>
+<!ELEMENT CRN (#PCDATA)>
+<!ELEMENT Credit (#PCDATA)>
+<!ELEMENT Section (#PCDATA)>
+<!ELEMENT Starttime (#PCDATA)>
+<!ELEMENT Endtime (#PCDATA)>
+<!ELEMENT Room (#PCDATA)>
+<!ELEMENT Professor (#PCDATA)>

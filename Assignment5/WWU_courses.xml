@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Class_Schedule SYSTEM "WWU_courses.dtd">
+<Class_Schedule>
+<Course CourseName='Financial Accounting'>
+<CourseNum>ACCT 240</CourseNum>
+<CRN>20001</CRN>
+<Credit>4</Credit>
+<Section>1</Section>
+<Starttime>08:00</Starttime>
+<Endtime>09:50</Endtime>
+<Room>CB 386</Room>
+<Professor>Murphy, Siobhan</Professor>
+</Course>
+<Course CourseName='Financial Accounting'>
+<CourseNum>ACCT 240</CourseNum>
+<CRN>20004</CRN>
+<Credit>4</Credit>
+<Section>2</Section>
+<Starttime>08:00</Starttime>
+<Endtime>09:50</Endtime>
+<Room>PH 228</Room>
+<Professor>Dales, Ryan</Professor>
+</Course>
+<Course CourseName='Functions and Algebraic Methods'> 
+<CourseNum>MATH 112</CourseNum>
+<CRN>20791</CRN>
+<Credit>5</Credit>
+<Section>1</Section>
+<Starttime>09:00</Starttime>
+<Endtime>09:50</Endtime>
+<Room>BH 106</Room>
+<Professor>Abegg,Stephanie</Professor>
+</Course>
+<Course CourseName='Functions and Algebraic Methods'>
+<CourseNum>MATH 112</CourseNum>
+<CRN>20792</CRN>
+<Credit>5</Credit>
+<Section>2</Section>
+<Starttime>09:00</Starttime>
+<Endtime>09:50</Endtime>
+<Room>BI 212</Room>
+<Professor>Calhoon,Brett</Professor>
+</Course>
+<Course CourseName='Game Programming'>
+<CourseNum>CSCI 321</CourseNum>
+<CRN>22927</CRN>
+<Credit>4</Credit>
+<Section>1</Section>
+<Starttime>09:00</Starttime>
+<Endtime>09:50</Endtime>
+<Room>BI 212</Room>
+<Professor>Calhoon,Brett</Professor>
+</Course>
+<Course CourseName='Mobile Device Programming'>
+<CourseNum>CSCI 412</CourseNum>
+<CRN>22928</CRN>
+<Credit>4</Credit>
+<Section>1</Section>
+<Starttime>01:00</Starttime>
+<Endtime>01:50</Endtime>
+<Room>CF 314</Room>
+<Professor>Nelson,Phil</Professor>
+</Course>
+<Course CourseName='Computers and Applications'>
+<CourseNum>CSCI 101</CourseNum>
+<CRN>43580</CRN>
+<Credit>4</Credit>
+<Section>1</Section>
+<Starttime>02:00</Starttime>
+<Endtime>03:20</Endtime> 
+<Room>AW 204</Room>
+<Professor>Awad,Ahmed</Professor>
+</Course>
+<Course CourseName="Adv Web Programming in Java">
+<CourseNum>CSCI 442</CourseNum>
+<CRN>20464</CRN>
+<Credit>4</Credit>
+<Section>1</Section>
+<Starttime>12:00</Starttime>
+<Endtime>12:50</Endtime> 
+<Room>CF 314</Room>
+<Professor>Granier,Martin</Professor>
+</Course>
+</Class_Schedule>
